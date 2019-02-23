@@ -3,7 +3,6 @@
 A simple task list (todo) application in AdonisJS
 
 ### Tutorial Reference
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
 https://scotch.io/tutorials/building-a-web-app-with-adonisjs
 
 ## How to run
