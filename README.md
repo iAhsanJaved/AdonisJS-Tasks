@@ -2,6 +2,9 @@
 
 A simple task list (todo) application in AdonisJS
 
+### Demo
+![Alt Text](demo.gif)
+
 ### Tutorial Reference
 https://scotch.io/tutorials/building-a-web-app-with-adonisjs
 
