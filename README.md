@@ -1,4 +1,4 @@
-# Adonis fullstack application
+# Adonis Task(Todo) Application
 
 A simple task list (todo) application in AdonisJS
 
